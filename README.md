@@ -1,4 +1,4 @@
-Vehicle Availability System
+Vehicle Availability System 
 🔍 Project Overview
 The Vehicle Availability System is a dynamic web-based solution developed to monitor and manage vehicle listings and their availability in real-time. It caters to two categories of users: Dealers, who are granted privileges to manage vehicle inventory, and General Users, who can browse through listed vehicles. The system employs role-based access to ensure security, allowing each user type to interact with the application according to their defined permissions.
 🚀 Technologies Used
